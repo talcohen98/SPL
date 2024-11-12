@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project is an implementation of a simplified version of the **Set Card Game**, designed to practice Java concurrency and synchronization techniques while incorporating unit testing. Players compete to identify legal sets of cards based on specified rules. 
+This project is an implementation of a simplified version of the **Set Card Game**, designed to practice Java concurrency and synchronization techniques while incorporating unit testing. Players compete to identify legal sets of cards based on specified rules.
 
 The project includes game logic and backend functionality, leveraging Java threads for player actions and game management.
 
